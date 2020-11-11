@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">My First App</string>
+    <string name="hello_text">My first Application!</string>
+    <string name="to_text">To:</string>
+    <string name="send_text">Send</string>
+    <string name="images_text">Images:</string>
+    <string name="cancel_text">Cancel</string>
+</resources>
